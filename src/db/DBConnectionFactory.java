@@ -66,7 +66,7 @@ public class DBConnectionFactory implements DBConnection {
   }
 
   @Override
-  public String getFullname(String userId) {
+  public String getFullName(String userId) {
     return null;
   }
 

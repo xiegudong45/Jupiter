@@ -2,7 +2,7 @@ package db.msql;
 
 public class MySQLDBUtil {
   private static final String HOSTNAME = "localhost";
-  private static final String PORT_NUM = "9877"; // change it to your mysql
+  private static final String PORT_NUM = "3306"; // change it to your mysql
   // port number
   public static final String DB_NAME = "ticketmasterproject";
   private static final String USERNAME = "root";

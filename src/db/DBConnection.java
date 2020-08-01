@@ -54,7 +54,6 @@ public interface DBConnection {
   /**
    * Search items near a geolocation and a term (optional).
    *
-   * @param userId
    * @param lat
    * @param lon
    * @param term
